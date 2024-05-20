@@ -1,4 +1,7 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+NAME  : DHANA LAKSHMI A
+
+REG NO: 212223040033 
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
